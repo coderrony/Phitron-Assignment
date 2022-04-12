@@ -1,0 +1,58 @@
+                                                  Introduction to Computer & Scratch Programming
+
+                                                             Answer Paper
+
+
+1. What are the tasks that the Operating System performs as “Resource Manager”?
+     ("রিসোর্স ম্যানেজার" হিসাবে অপারেটিং সিস্টেম কী কী কাজ করে?)
+
+2.  What do you think would be the case if search engines like Google did not exist?
+         (গুগলের মতো সার্চ ইঞ্জিন না থাকলে কী হতো বলে আপনি মনে করেন?)
+
+3.  Suppose you want to search for apartments to rent. The apartments must be in Dhaka, but you want to avoid Mirpur. What text do you type     in the search box?’
+        (ধরুন আপনি ভাড়ার জন্য অ্যাপার্টমেন্ট খুঁজতে চান। অ্যাপার্টমেন্টগুলো অবশ্যই ঢাকায়, কিন্তু আপনি মিরপুর এড়িয়ে যেতে চান। সার্চ বক্সে আপনি কি টেক্সট টাইপ করবেন?)
+
+4.   There are three basic logical structures in programming – sequence, selection and repetition. Differentiate between selection and      repetition.
+          (প্রোগ্রামিং-এ তিনটি মৌলিক logical structure রয়েছে – sequence, selection and repetition. Selection and repetition এর মধ্যে পার্থক্য কি?)
+
+                                                 Answer Question
+           
+ Answer to the question number one:
+
+=> Computer operating systems process data using hardware and software and provide resources to the user as needed.  As an operating system, the resource manager processes the resources, provides the user with the resources they need, and hides unnecessary resources from the users.  Multiple users can assess resources at the same time using one operating system.
+
+=> কম্পিউটার অপারেটিং সিস্টেম হার্ডওয়্যার এবং সফ্টওয়্যার ব্যবহার করে ডেটা প্রক্রিয়া করে এবং প্রয়োজন অনুসারে ব্যবহারকারীকে সংস্থান সরবরাহ করে। একটি অপারেটিং সিস্টেম হিসাবে, রিসোর্স ম্যানেজার রিসোর্সগুলিকে প্রক্রিয়া করে, ব্যবহারকারীকে তাদের প্রয়োজনীয় সংস্থানগুলি সরবরাহ করে এবং ব্যবহারকারীদের থেকে অপ্রয়োজনীয় সংস্থানগুলি লুকিয়ে রাখে। একাধিক ব্যবহারকারী একটি অপারেটিং সিস্টেম ব্যবহার করে একই সময়ে সম্পদ মূল্যায়ন করতে পারেন।
+
+
+Answer to the question number two:
+
+=> Google is the best search engine for gathering information from the internet. google search engine interface is so clean that anyone can find information easily. Google most of the time update information on the internet .google search engine is so fast, therefore, you can assess information quickly. Google has a lot of tools and software which you can use to gather information as you need. if google did not exist our internet search experience feels not be good, and we can not get information easily. the other search engine is not good as google because they do not represent data easily.
+
+=> ইন্টারনেট থেকে তথ্য সংগ্রহের জন্য গুগল হল সেরা সার্চ ইঞ্জিন। গুগল সার্চ ইঞ্জিন ইন্টারফেস এতটাই পরিষ্কার যে কেউ সহজেই তথ্য খুঁজে পেতে পারে। গুগল বেশিরভাগ সময় ইন্টারনেটে তথ্য আপডেট করে। গুগল সার্চ ইঞ্জিন এত দ্রুত, তাই আপনি দ্রুত তথ্য মূল্যায়ন করতে পারেন। Google-এর অনেক টুলস এবং সফ্টওয়্যার রয়েছে যা আপনি আপনার প্রয়োজন অনুযায়ী তথ্য সংগ্রহ করতে ব্যবহার করতে পারেন। গুগল না থাকলে আমাদের ইন্টারনেট অনুসন্ধানের অভিজ্ঞতা ভালো হবে না, এবং আমরা সহজে তথ্য পেতে পারি না। অন্য সার্চ ইঞ্জিন গুগলের মত ভালো নয় কারণ তারা সহজে ডেটা উপস্থাপন করে না।
+
+Answer to the question number three:
+
+=> apartments for rent dhaka -Mirup
+
+Answer to the question number Four:
+
+selection statement performs an action based on the condition.
+if(18>=age)
+{
+   printf(" you can vote. ")
+}
+else
+{
+   printf(" you can not vote. ")
+}
+
+repetition statement performs an action based until the condition fails.
+
+ for(int i=1;i<=10;i++){
+     printf("%d\n",i);
+   }
+
+
+
+=>  Animation project link link :  https://scratch.mit.edu/projects/674425460/editor/
+=> Race Game project link :   https://scratch.mit.edu/projects/674501955/
