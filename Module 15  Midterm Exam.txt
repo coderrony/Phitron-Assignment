@@ -9,9 +9,9 @@ Answare One:
     for (int i = 0; i < n; i++)
     {
 
-        b[i] = a[i];
+        int tme = a[i];
         a[i] = b[i];
-       
+        b[i] = tem;
     }
 
 Answare Two:
