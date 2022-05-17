@@ -1,0 +1,60 @@
+                  
+          Module 15 Midterm Exam Theory Answare Paper
+          ===========================================
+
+Answare One:
+-----------
+ int n = 10;
+    int a[n], b[n];
+    for (int i = 0; i < n; i++)
+    {
+
+        b[i] = a[i];
+        a[i] = b[i];
+       
+    }
+
+Answare Two:
+-----------
+=> 6
+
+Answare Three:
+--------------
+
+ int arr[] = {4, 7, 10, 15, 18, 5, 10};
+
+    for (int i = 0; i < sizeof(arr) / sizeof(arr[0]); i++)
+    {
+        printf("%d ", arr[i]);
+    }
+
+Answare Four:
+-------------
+=> here will show garbage value because here are declared character  0 to 5 index but string array size is 10, therefore, showing garbage string.
+char a[10] = {'b', 'a', 'n', 'a', 'n', 'a'};
+
+Answare Five:
+-------------
+=> stirring AAAA will show overflow when a user inputs “1234567890”.
+fgets(a,10,stdin)
+
+Answare six
+-----------
+=> 100 bytes 
+
+Answare seven:
+--------------
+=>  lexicographical order is the same as dictionary ordering. the lexicographical comparison does alphabetical order. apple, mango,Apricots, banana, strawberry, orange lexicographical comparison like
+ -> 1st Apkicots
+ -> 2st apple 
+ -> 3st banana
+ -> 4st mango
+ -> 5st mango 
+ -> 6st orange 
+ -> 7st strawberry
+
+
+Answare eight:
+--------------
+=>in c the null string is no value and the null string does not allocate memory. string null character is '\0' which is stay at the end of the string. the null character is used to denote the end of the sting.
+char fruit[6] = {'b', 'a', 'n', 'a', 'n','a','\0'};
