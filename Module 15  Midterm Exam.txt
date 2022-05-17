@@ -35,12 +35,12 @@ char a[10] = {'b', 'a', 'n', 'a', 'n', 'a'};
 
 Answare Five:
 -------------
-=> stirring AAAA will show overflow when a user inputs “1234567890”.
+=>  char a  will show overflow when a user inputs “1234567890”  because char size is 10 a[] can store 9 characters and last is null.
 fgets(a,10,stdin)
 
 Answare six
 -----------
-=> 100 bytes 
+=> 400 bytes 
 
 Answare seven:
 --------------
